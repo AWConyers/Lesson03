@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Assignment3Start",
+			"path": "."
+		},
+		{
+			"name": "Lesson03",
+			"path": "..\\..\\Documents\\GitHub\\Lesson03"
+		},
+		{
+			"name": "projects",
+			"path": "..\\projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Assignment3Start"
+	}
+}
